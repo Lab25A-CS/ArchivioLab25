@@ -5,7 +5,7 @@
         "type": "appunti",
         "link_repository": "https://github.com/mirco0/AlgoritmiBigData",
         "course": "AlgoritmiBigData",
-        "tags": ["Completi", "Clementi"]
+        "tags": ["Completi", "Clementi", "Triennale"]
   },
   {
         "title": "Progetto Principles of Cryptocurrency 2026",
@@ -13,7 +13,63 @@
         "type": "progetto",
         "link_repository": "https://github.com/Gjiha/Lightning-Network-Generator",
         "course": "Principles of Cryptocurrency Design",
-        "tags": ["Progetto", "Pasquale"]
+        "tags": ["Pasquale", "Magistrale"]
+  },
+  {
+        "title": "Appunti Algoritmi Distribuiti e Reti complesse 2026",
+        "description": "Appunti fino al coloring AA 25/26",
+        "type": "appunti",
+        "link_release": "https://github.com/Gjiha/University/releases/tag/v1.0.0",
+        "course": "Algoritmi Distribuiti e Reti Complesse",
+        "tags": ["Parziali", "Clementi", "Magistrale"]
+  },
+  {
+        "title": "Appunti Fisica 2022",
+        "description": "Appunti completi AA 22/23",
+        "type": "appunti",
+        "link_release": "https://github.com/Gjiha/University/releases/tag/v1.0.1",
+        "course": "Fisica",
+        "tags": ["Completi", "Camarri", "Triennale"]
+  },
+  {
+        "title": "Appunti Calcolo Numerico 2024",
+        "description": "Appunti completi AA 24/25",
+        "type": "appunti",
+        "link_release": "https://github.com/Gjiha/University/releases/tag/v1.0.2",
+        "course": "Calcolo numerico",
+        "tags": ["Completi", "Garoni", "Triennale"]
+  },
+  {
+        "title": "Appunti Calcolo delle Probabilità 2026",
+        "description": "Appunti completi AA 25/26",
+        "type": "appunti",
+        "link_release": "https://github.com/Gjiha/University/releases/tag/v1.0.3",
+        "course": "Calcolo delle Probabilità",
+        "tags": ["Completi", "Salvi", "Magistrale"]
+  },
+  {
+        "title": "Appunti Fondamenti di Informatica 2024",
+        "description": "Appunti senza grammatiche e automi AA 23/24",
+        "type": "appunti",
+        "link_release": "https://github.com/Gjiha/University/releases/tag/v1.0.4",
+        "course": "Fondamenti di Informatica",
+        "tags": ["Completi", "Di Ianni", "Triennale"]
+  },
+  {
+        "title": "Appunti Inferenza Statistica e Teoria dell'Informazione 2025",
+        "description": "Appunti completi AA 25/26",
+        "type": "appunti",
+        "link_release": "https://github.com/Gjiha/University/releases/tag/v1.0.5",
+        "course": "Inferenza Statistiica e Teoria dell'Informazione",
+        "tags": ["Completi", "Marinucci", "Magistrale"]
+  },
+  {
+        "title": "Appunti Principles of Cryptocurreny Design 2026",
+        "description": "Appunti dei primi due terzi del corso AA 25/26",
+        "type": "appunti",
+        "link_release": "https://github.com/Gjiha/University/releases/tag/v1.0.6",
+        "course": "Principles of Cryptocurreny Design",
+        "tags": ["Parziali", "Pasquale", "Magistrale"]
   }
 ]
 
